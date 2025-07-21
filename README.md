@@ -5,7 +5,7 @@ Skilled in Problem- solving, excellent in communication.
 Mostly eager to learn new technology in IoT and Embedded systems.
 Currently working as an Embedded engineer at Candore Bioscience. 
 Also pursuing Embedded system course at Sofcon India pvt ltd.
-//
+
 My skills includes:
                      Embedded C,
                      C++,
