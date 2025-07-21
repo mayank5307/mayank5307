@@ -3,7 +3,8 @@
 I am Mayank Sonagara, a moderately skilled B.Sc CS-IT student from Silver Oak University, Ahmedabad.
 Skilled in Problem- solving, excellent in communication.
 Mostly eager to learn new technology in IoT and Embedded systems.
-Currently pursuing Embedded systems course at Sofcon India pvt ltd.
+Currently working as an Embedded engineer at Candore Bioscience. 
+Also pursuing Embedded system course at Sofcon India pvt ltd.
 //
 My skills includes:
                      Embedded C,
