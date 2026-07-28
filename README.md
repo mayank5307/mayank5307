@@ -4,7 +4,6 @@ I am Mayank Sonagara, a moderately skilled B.Sc CS-IT student from Silver Oak Un
 Skilled in Problem- solving, excellent in communication.
 Mostly eager to learn new technology in IoT and Embedded systems.
 Currently working as an Embedded engineer at Candore Bioscience. 
-Also pursuing Embedded system course at Sofcon India pvt ltd.
 
 My skills includes:
                      Embedded C,
@@ -12,7 +11,10 @@ My skills includes:
                      Arduino,
                      Python,
                      Linux,
-                     Networking.
+                     PCB Designing.
+                     Hardware Integration.
+                     Baremetal Programming.
+                     Project Documentation.
 
 Tools that I prefer:
                      VS Code,
@@ -21,6 +23,20 @@ Tools that I prefer:
                      Keil & Proteus,
                      Arduino IDE,
                      Blynk IOT.
+                     Cube IDE.
+                     GitBash.
+                     KiCad.
+                     OnShape.
+                     Google AppScript.
+
+Devices that I have worked on:
+                     8051 microcontroller.
+                     PIC microcontroller.
+                     ESP controllers.
+                     Arduino controllers.
+                     STM32.
+                     Raspberry Pi.
+                     
                     
 <!--
 **mayank5307/mayank5307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
